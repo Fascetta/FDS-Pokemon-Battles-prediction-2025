@@ -1,2 +1,11 @@
-# FDS-Pokemon-Battles-prediction-2025
- A classification model to predict the winner of competitive Pokémon (Gen 1 OU) battles. Using data from Pokémon Showdown, this project focuses on feature engineering from initial team matchups and a detailed turn-by-turn timeline to achieve high prediction accuracy. The challenge is to find the most predictive signals.
+# Not So Fast, Trainer!
+
+![Professor Oak](./oak.jpg)
+
+> ### *"There's a time and place for everything... but not now!"*
+
+Trying to peek at the code early? It's not very effective... 😉
+
+This repo's final form will be revealed after the challenge deadline. ⏰
+
+Good luck!
